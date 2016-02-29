@@ -11,7 +11,7 @@ Well, we need certain versions of Vagrant and VirtualBox, so here they are.
 To install these, install [Homebrew](http://brew.sh) and [Homebrew Cask](http://caskroom.io/), then execute:
 
 ```shell
-$ brew install decipherinc/homebrew-decipher/vagrant174 deciphering/homebrew-decipher/virtualbox4332
+$ brew install decipherinc/homebrew-decipher/vagrant174 decipherinc/homebrew-decipher/virtualbox4332
 ```
 
 ## Author
